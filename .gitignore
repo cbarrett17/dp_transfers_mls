@@ -1,0 +1,12 @@
+transfermarkt_repo/
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+obj/
+bin/
+*.exe
+.venv/
+config.json
+*.log
+*.tmp

@@ -1,0 +1,4 @@
+-1: Missing
+-2: Academy/University/Too Low
+-3: Russia
+-4: Folded
